@@ -1,3 +1,6 @@
 [submodule "submodules/UIKit"]
 	path = submodules/UIKit
 	url = https://github.com/idapgroup/UIKit.git
+[submodule "submodules/SystemConfigKit"]
+	path = submodules/SystemConfigKit
+	url = https://github.com/idapgroup/SystemConfigKit.git
