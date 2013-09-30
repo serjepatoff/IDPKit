@@ -7,3 +7,6 @@
 [submodule "submodules/QuartzCoreKit"]
 	path = submodules/QuartzCoreKit
 	url = https://github.com/idapgroup/QuartzCoreKit.git
+[submodule "submodules/DataKit"]
+	path = submodules/DataKit
+	url = https://github.com/idapgroup/DataKit.git
