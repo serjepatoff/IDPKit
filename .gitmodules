@@ -10,3 +10,6 @@
 [submodule "submodules/DataKit"]
 	path = submodules/DataKit
 	url = https://github.com/idapgroup/DataKit.git
+[submodule "submodules/CommonKit"]
+	path = submodules/CommonKit
+	url = https://github.com/idapgroup/CommonKit.git
