@@ -13,3 +13,6 @@
 [submodule "submodules/CommonKit"]
 	path = submodules/CommonKit
 	url = https://github.com/idapgroup/CommonKit.git
+[submodule "submodules/ActiveRecordKit"]
+	path = submodules/ActiveRecordKit
+	url = https://github.com/idapgroup/ActiveRecordKit.git
