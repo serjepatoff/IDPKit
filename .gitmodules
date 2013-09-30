@@ -4,3 +4,6 @@
 [submodule "submodules/SystemConfigKit"]
 	path = submodules/SystemConfigKit
 	url = https://github.com/idapgroup/SystemConfigKit.git
+[submodule "submodules/QuartzCoreKit"]
+	path = submodules/QuartzCoreKit
+	url = https://github.com/idapgroup/QuartzCoreKit.git
