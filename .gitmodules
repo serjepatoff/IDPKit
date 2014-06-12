@@ -16,3 +16,6 @@
 [submodule "submodules/ActiveRecordKit"]
 	path = submodules/ActiveRecordKit
 	url = https://github.com/idapgroup/ActiveRecordKit.git
+[submodule "submodules/CoreLocationKit"]
+	path = submodules/CoreLocationKit
+	url = https://github.com/idapgroup/CoreLocationKit.git
