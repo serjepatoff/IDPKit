@@ -1,21 +1,21 @@
 [submodule "submodules/UIKit"]
 	path = submodules/UIKit
-	url = https://github.com/idapgroup/UIKit.git
+	url = https://github.com/serjepatoff/UIKit.git
 [submodule "submodules/SystemConfigKit"]
 	path = submodules/SystemConfigKit
-	url = https://github.com/idapgroup/SystemConfigKit.git
+	url = https://github.com/serjepatoff/SystemConfigKit.git
 [submodule "submodules/QuartzCoreKit"]
 	path = submodules/QuartzCoreKit
-	url = https://github.com/idapgroup/QuartzCoreKit.git
+	url = https://github.com/serjepatoff/QuartzCoreKit.git
 [submodule "submodules/DataKit"]
 	path = submodules/DataKit
-	url = https://github.com/idapgroup/DataKit.git
+	url = https://github.com/serjepatoff/DataKit.git
 [submodule "submodules/CommonKit"]
 	path = submodules/CommonKit
-	url = https://github.com/idapgroup/CommonKit.git
+	url = https://github.com/serjepatoff/CommonKit.git
 [submodule "submodules/ActiveRecordKit"]
 	path = submodules/ActiveRecordKit
-	url = https://github.com/idapgroup/ActiveRecordKit.git
+	url = https://github.com/serjepatoff/ActiveRecordKit.git
 [submodule "submodules/CoreLocationKit"]
 	path = submodules/CoreLocationKit
-	url = https://github.com/idapgroup/CoreLocationKit.git
+	url = https://github.com/serjepatoff/CoreLocationKit.git
